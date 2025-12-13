@@ -1,0 +1,17 @@
+#contact{
+    color:rebeccapurple;
+    font-family: monospace;
+    border: 2px saddlebrown;
+}
+#about{
+    color:teal;
+    font-family: cursive;
+    border: 2px olive;
+}
+header{
+    color:darkorange;
+    font-family: fantasy;
+    border: 2px darkgoldenrod;
+    background-color: mediumaquamarine;
+    text-decoration: underline;
+}
